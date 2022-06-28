@@ -1,1 +1,0 @@
-typeSearchIndex = [{"l":"All Classes","u":"allclasses-index.html"},{"p":"com.HomeWork4","l":"Main"},{"p":"com.HomeWork4","l":"myHw4Class"}];updateSearchResults();
